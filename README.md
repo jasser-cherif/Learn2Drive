@@ -15,7 +15,12 @@
 
 ### Our driving school website aims to provide a seamless registration process and valuable information for students interested in obtaining their driver's license. Join us on our website to begin your journey towards becoming a skilled and confident driver!
  ![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/45d0edee-8684-436d-bc4b-ff7f65fad998)
+ ![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/ebda9e6f-84cc-4d91-ba9c-6c7a2234f210)
+![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/07f0609a-cc32-46d3-8e46-f872ea269e94)
+![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/49a71e35-242d-4989-9982-5bb5947e19d1)
 ![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/d3afa18e-a84f-4624-b886-babb94123309)
+![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/6af2d9f5-e4c8-4514-a980-d8572848be39)
 ![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/6590c872-16d2-42ca-9035-c28fe7b95438)
 ![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/9b2f0041-273c-44b1-91d3-0cf3ec1162d9)
-![Uploading image.png…]()
+![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/faf3b282-6e18-495e-b66c-859b65152a58)
+
