@@ -1,5 +1,5 @@
 # Lean2Drive
-## Welcome to our project for a driving school website! Our platform aims to provide a user-friendly online experience for students looking to register for driving courses. Here's a brief description of the key pages on our website:
+### Welcome to our project for a driving school website! Our platform aims to provide a user-friendly online experience for students looking to register for driving courses. Here's a brief description of the key pages on our website:
 
 - Home: Our homepage serves as an introduction to our driving school. It provides a welcoming overview of our services, emphasizing our commitment to quality education and safe driving practices.
 
@@ -13,4 +13,4 @@
 
 - Register: This page is dedicated to the registration process. Students can fill out a registration form, providing their personal details and preferred course options. We ensure a smooth and secure registration experience, making it convenient for students to sign up for our driving courses.
 
-## Our driving school website aims to provide a seamless registration process and valuable information for students interested in obtaining their driver's license. Join us on our website to begin your journey towards becoming a skilled and confident driver!
+### Our driving school website aims to provide a seamless registration process and valuable information for students interested in obtaining their driver's license. Join us on our website to begin your journey towards becoming a skilled and confident driver!
