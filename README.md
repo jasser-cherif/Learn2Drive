@@ -25,7 +25,7 @@
 
 ![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/2343ce0c-d581-4cce-80b8-8acec3833a48)
 
-- Register: This page is dedicated to the registration process. Students can fill out a registration form, providing their personal details and preferred course options. We ensure a smooth and secure registration experience, making it convenient for students to sign up for our driving courses.
+- Registration: This page is dedicated to the registration process. Students can fill out a registration form, providing their personal details and preferred course options. We ensure a smooth and secure registration experience, making it convenient for students to sign up for our driving courses.
 
 ![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/378bce20-d06f-483e-9cdd-b9b3ef4fbf19)
 ![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/6889d793-124e-43f6-9558-ec7edea8ea49)
