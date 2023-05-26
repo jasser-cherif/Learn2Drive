@@ -19,7 +19,7 @@
 
 - Resources: This page offers helpful resources and information for aspiring drivers. We provide access to educational materials, tips for passing the driving test, and information on road safety. Students can find valuable resources to support their learning journey.
 
-![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/6590c872-16d2-42ca-9035-c28fe7b95438)
+![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/6607d02a-f17b-4117-9f38-0464c0561756)
 
 - Contact: On this page, visitors can find our contact information for inquiries, questions, and assistance. We provide multiple channels for communication, such as phone, email, and a contact form, ensuring easy access to our team.
 
@@ -27,7 +27,7 @@
 
 - Register: This page is dedicated to the registration process. Students can fill out a registration form, providing their personal details and preferred course options. We ensure a smooth and secure registration experience, making it convenient for students to sign up for our driving courses.
 
-![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/ec175f15-4758-4799-a3ee-8dcd51d8b55e)
+![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/378bce20-d06f-483e-9cdd-b9b3ef4fbf19)
 ![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/6889d793-124e-43f6-9558-ec7edea8ea49)
 
 ### Our driving school website aims to provide a seamless registration process and valuable information for students interested in obtaining their driver's license. Join us on our website to begin your journey towards becoming a skilled and confident driver!
