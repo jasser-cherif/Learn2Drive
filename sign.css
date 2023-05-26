@@ -47,7 +47,7 @@ input[id="sign"]{
     max-height: 30px; 
     
 }
-input[id="sub"]{
+#sub{
     
         height: 35px;
         width: 80px;
