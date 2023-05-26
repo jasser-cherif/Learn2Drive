@@ -15,7 +15,7 @@
 
 - Instructors: On this page, we introduce our team of experienced driving instructors. Students can learn about their qualifications, expertise, and teaching styles, helping them make an informed decision when selecting an instructor.
 
-![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/6af2d9f5-e4c8-4514-a980-d8572848be39)
+![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/9cab16a8-e1c0-4d37-9f61-aea3d54cae6a)
 
 - Resources: This page offers helpful resources and information for aspiring drivers. We provide access to educational materials, tips for passing the driving test, and information on road safety. Students can find valuable resources to support their learning journey.
 
