@@ -28,6 +28,7 @@
 - Register: This page is dedicated to the registration process. Students can fill out a registration form, providing their personal details and preferred course options. We ensure a smooth and secure registration experience, making it convenient for students to sign up for our driving courses.
 
 ![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/ec175f15-4758-4799-a3ee-8dcd51d8b55e)
+![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/6889d793-124e-43f6-9558-ec7edea8ea49)
 
 ### Our driving school website aims to provide a seamless registration process and valuable information for students interested in obtaining their driver's license. Join us on our website to begin your journey towards becoming a skilled and confident driver!
 ##
