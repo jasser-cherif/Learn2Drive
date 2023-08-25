@@ -4,7 +4,8 @@
 
 - Home: Our homepage serves as an introduction to our driving school. It provides a welcoming overview of our services, emphasizing our commitment to quality education and safe driving practices.
 
-![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/45d0edee-8684-436d-bc4b-ff7f65fad998)
+![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/bca9c8aa-9fa1-44a1-8dad-6c96e8dc6cf7)
+
 
 - Info: This page provides essential information about our driving school, including our mission, values, and a brief background. Visitors can learn more about our approach to driver training and the benefits of choosing our school.
 
