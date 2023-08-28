@@ -20,7 +20,8 @@
 
 - Resources: This page offers helpful resources and information for aspiring drivers. We provide access to educational materials, tips for passing the driving test, and information on road safety. Students can find valuable resources to support their learning journey.
 
-![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/6607d02a-f17b-4117-9f38-0464c0561756)
+![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/db92ca50-ae96-4cc9-bf8a-36fc4d7ce223)
+
 
 - Contact: On this page, visitors can find our contact information for inquiries, questions, and assistance. We provide multiple channels for communication, such as phone, email, and a contact form, ensuring easy access to our team.
 
