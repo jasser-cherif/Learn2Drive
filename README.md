@@ -24,7 +24,8 @@
 
 - Contact: On this page, visitors can find our contact information for inquiries, questions, and assistance. We provide multiple channels for communication, such as phone, email, and a contact form, ensuring easy access to our team.
 
-![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/2343ce0c-d581-4cce-80b8-8acec3833a48)
+![image](https://github.com/jasser-cherif/Learn2Drive/assets/120514151/a48ee4b7-558e-4080-93fa-f514a2cfcbad)
+
 
 - Registration: This page is dedicated to the registration process. Students can fill out a registration form, providing their personal details and preferred course options. We ensure a smooth and secure registration experience, making it convenient for students to sign up for our driving courses.
 
